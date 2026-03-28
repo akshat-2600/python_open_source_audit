@@ -64,7 +64,7 @@ open-source-audit-python/
     ├── script3.sh             ← Disk and Permission Auditor
     ├── script4.sh             ← Log File Analyzer
     ├── script5.sh             ← Open Source Manifesto Generator
-    └── test.log               ← Sample log file for Script 4
+    └── manifesto_akshat_20260328.txt             
 ```
 
 ---
